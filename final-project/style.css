@@ -1,0 +1,80 @@
+body {
+    background-color: #e7e6f7;
+    font-family: "Arimo", sans-serif;
+}
+
+.title {
+    text-align: center;
+    margin: 5% auto 0;
+    font-weight: bolder;
+    padding-bottom: 0;
+}
+
+.createOrder {
+    width: 800px;
+    text-align: center;
+    border: 2px solid #f4e9cd;
+    margin: 1em auto 2%;
+    background-color: #827081;
+}
+
+.form {
+    width: 800px;
+    border: 2px solid #f4e9cd;
+    margin: 2% auto;
+    text-align: center;
+    padding-top: 2%;
+    line-height: 1.7;
+    background-color: #aea3b0;
+}
+
+#order {
+    width: 800px;
+    margin: 2px auto;
+    background-color: #aea3b0;
+}
+
+#total {
+    width: 800px;
+    border: none;
+    margin: 0 auto 5px;
+}
+
+#crust {
+    display: block center;
+    text-align: center;
+}
+
+#sauce {
+    display: block center;
+    text-align: center;
+}
+
+#btn {
+    display: block center;
+    text-align: center;
+    border-radius: 2px;
+    margin: 2% auto;
+}
+
+#btn:hover {
+    background-color: grey;
+}
+
+#firstSales {
+    margin: 0;
+    font-weight: bold;
+}
+
+#secondSales {
+    margin: 1em auto 0;
+    font-weight: bold;
+}
+
+#firstOrder {
+    margin: 0;
+}
+
+#secondOrder {
+    margin-bottom: 0;
+}
